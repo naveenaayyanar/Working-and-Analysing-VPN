@@ -1,0 +1,33 @@
+🛠️ VPN Setup Process (Step-by-Step)
+
+ 🔹 1. Sign Up for a Free VPN
+
+* Go to: [https://protonvpn.com/free-vpn](https://protonvpn.com/free-vpn)
+* Click on “Get ProtonVPN Free”
+* Create a free account with your email and password
+* Verify your email to activate the account
+
+
+
+ 🔹 2. Download and Install ProtonVPN
+
+* After signing in, go to the [Downloads](https://protonvpn.com/download) page
+* Choose the Windows version (or macOS/Linux if applicable)
+* Download and run the installer
+* Complete the installation and launch the ProtonVPN app
+
+
+
+ 🔹 3. Login and Setup
+
+* Open ProtonVPN client
+* Log in using your ProtonVPN credentials (email + password)
+
+
+
+ 🔹 4. Connect to a VPN Server
+
+* In the app dashboard, you'll see a map and a list of free servers
+* Click on any “Free” server (e.g., Netherlands, Japan, US)
+* Wait for the status to show Connected
+* Optional: Take a screenshot → `vpn_connected.png`
